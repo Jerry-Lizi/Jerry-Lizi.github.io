@@ -1,0 +1,101 @@
+<!--
+ * @Descripttion: your project
+ * @Author: Jerry_Liweeeee
+ * @Date: 2022-09-22 08:09:14
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jerry Lizi's box</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Passions+Conflict&display=swap" rel="stylesheet">
+    
+</head>
+<body>
+    <div class="topContainer">
+        <img class="top-cloud" src="css\images\cloud.png" alt="cloud">
+
+        <h1>I'm Chestnut</h1>
+        <h2>a student from TJU</h2>
+
+        <img class="bottom-cloud" src="css\images\cloud.png" alt="cloud">
+        <img src="css\images\mountain.png" alt="mountain">
+        
+    </div>
+    <div class="middle-container">
+        <div class="profile">
+          <img src="css/images/screenshot.png" alt="myPhoto">
+          <h2>Hello.</h2>
+          <p> An undergraduate working hard to reach a higher level! ! !</p>
+        </div>
+        <hr>
+        <div class="skills">
+          <h2>My Skills.</h2>
+          <div class="skill-row">
+            <img class="ski" src="css\images\ski.png" alt="ski" >
+            <h3>ski</h3>
+            <p class="skill-description">Once in the winter vacation, i tried and loved the ski.<br> Experience The Fast & Furious!</p>
+          </div>
+          <div class="skill-row">
+            <img class="ball" src="css/images/ball.png" alt="basketball">
+            <!-- <iframe src="https://giphy.com/embed/NuxRC8DAnC62qWySWz" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nba-NuxRC8DAnC62qWySWz">via GIPHY</a></p> -->
+            <h3>Basketball</h3>
+            <p class="skill-description">Have been playing for 7 years. Enjoy the teamwork & every uncertainty <br> A super fan of Golden State Warriors ❤️</p>
+          </div>
+        </div>
+        <hr>
+        <div class="contact-me">
+          <h2>Get In Touch</h2>
+          <h3 id="do-it">Focus with me. Make it happen!</h3>
+          <p class="callme">Let's do sports together. <br> Work hard to reach higher.</p>
+          <!-- <a class="btn" href="2050732@tongji.edu.cn">CONTACT ME</a> -->
+        </div>
+      </div>
+      
+      
+      <div class="bottom-container">
+        <!-- <a class="footer-link" href="https://www.linkedin.com/">LinkedIn</a>
+        <a class="footer-link" href="https://twitter.com/">Twitter</a>
+        <a class="footer-link" href="https://www.appbrewery.co/">Website</a>
+        <p class="copy-right">2022@ Jerry Li</p> -->
+      </div>
+      
+    
+</body>
+</html>
+
+<!-- 
+    9.22
+    1.padding部分实际上改变了box(所要整体展现的部分)的大小。
+    2.根据上右下左的顺时针顺序来改变 margin、border、padding边距值。
+    3.元素的display特性：
+        block(块):           占据整个页面的宽度，有效地阻止了其他元素加在其左侧or右侧；常见元素有：<p>,<div>,<form>,<ol>,<h1>... 可改变该元素的width
+        inline(内联):        只占用该元素所需的高度和宽度，其他元素可以加在其后面。常见元素有:<img> <span> <a>                 不可改变该元素的width
+        inline-block(内敛块)：具有inline的属性，且可以更改width。
+        none:                 将该元素彻底消失(ps:不同于 "特性visibility:hidden, 因为hidden只是将元素隐藏，并没有删除) 
+    4.HTML 内容呈现规则:
+        content is everything。
+        默认布局顺序由代码的顺序决定。
+        子元素的呈现优先级要高于父元素。
+    5.CSS 布局位置属性 改变方法：
+    a.Static：  遵循HTML的默认规则。
+    b.Relative： 其他元素不会跟着ta的改变走，即保留原位(即使被覆盖)；position：relative； top/right/bottom/left:1000px;
+    c.Absolute：
+    d.Fixed：
+    9.23
+    1.b.Relative： 相对于该元素原位置而言
+    c.Absolute：   相对于整个父子块的位置而言；且此时已不再遵守原HTML的flow了 i.e.其原位置不在保留，被其他元素代替。重新排布在页面上。
+    d.Fixed:       不论页面怎么滑动，其位置都在当前整体页面的位置。
+    2.对于设置有width的block元素居中时，可选用：margin: 0 auto 0 auto; or margin: 0 auto;
+    而body中设置：text-align: center; 对除上述元素外所有元素都有效。
+    3.font-size
+    px   :即确定的了          static
+    %,em :跟随浏览器页面而定  dynamic: 因此子级会在，父级基础之上再次扩大n00%倍
+    1em = 16px = 100%                 so，此时需要"rem",不是在父级的基础之上。
+    -->
