@@ -1,13 +1,10 @@
 ---
-title: "Paper Title Number 4"
+title: "Data Speaks, But Who Gives It a Voice? Understanding Persuasive Strategies in Data-Driven News Articles"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'Data-driven news articles combine narrative storytelling with data visualizations to inform and influence public opinion on pressing societal issues. These articles often employ persuasive strategies, which are rhetorical techniques in narrative framing, visual rhetoric, or data presentation, to influence audience interpretation and opinion formation. While previous research has examined whether and when data visualizations persuade, the strategic choices made by persuaders remain largely unexplored. Addressing this gap, our work presents a taxonomy of persuasive strategies grounded in psychological theories and expert insights, categorizing 15 strategies across five dimensions: Credibility, Guided Interpretation, Reference-based Framing, Emotional Appeal, and Participation Invitation. To facilitate large-scale analysis, we curated a dataset of 936 data-driven news articles annotated with both persuasive strategies and their perceived effects. Leveraging this corpus, we developed a multimodal, multi-task learning model that jointly predicts the presence of persuasive strategies and their persuasive effects by incorporating both embedded (text and visualization) and explicit (visual narrative and psycholinguistic) features. Our evaluation demonstrates that our model outperforms state-of-the-art baselines in identifying persuasive strategies and measuring their effects.'
+date: 2025-06-06
+venue: 'IEEE VIS'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
