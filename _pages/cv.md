@@ -23,10 +23,10 @@ Research & Internship
   * Second co-first author in the IEEE-TVCG project that explored using efficient interactive mechanism and GCN & active learning to assist the user classification in social media.
 
 * Using LLM to analyze data and create data stories, Huawei Cloud 2024
-  *Participated in the dialog system that effectively obtain data insights and create data stories.
+  * Participated in the dialog system that effectively obtain data insights and create data stories.
 
 * Automatic Visual Data Story Generation, IDVX Lab 2023
-  *Participated in the intelligent system, that automatically generate visual data stories, using innovative Monte Carlo tree search algorithm.
+  * Participated in the intelligent system, that automatically generate visual data stories, using innovative Monte Carlo tree search algorithm.
 
 * Optimization algorithms in MU-MIMO(Multi-User Multiple-Input-Multiple-Output) 2022
   *Explored the application of L2O (learning to optimize) to solve the NP-hard combinational optimization problems in user scheduling.
