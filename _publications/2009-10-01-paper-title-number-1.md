@@ -1,14 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Supporting Interest-Based User Classification on Social Media Using a Mixed-Initiative Approach -- conditional accept, under revision"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+excerpt: 'User classification on social media involves categorizing individuals based on their interests, behaviors, or demographics, which is essential for applications such as targeted advertising, content recommendation, and identifying influential users. Interest-based classification, in particular, offers better stability over time and enhances user privacy. However, this process faces challenges, notably data sparsity among less active users and the considerable effort required to obtain labeled training data. To address these challenges, we present DuoTag, a mixed-initiative system designed specifically for interest-based user classification on social media. Our approach employs a multi-step workflow that begins with automated classifications based on user-interest similarities. This initial step is followed by the curation of a training dataset, which is labeled with the assistance of analysts, thus integrating human expertise into the machine learning process. DuoTag also incorporates visualization and interaction that facilitate analysts in labeling users and refining classification results. We evaluated DuoTag through two experiments, two case studies, and a user study. The results indicate that DuoTag effectively supports scalable and precise interest-based user classification on social media, minimizing the manual labeling effort required.'
+date: 2025-6-10
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
