@@ -29,7 +29,7 @@ Research & Internship
   * Participated in the intelligent system, that automatically generate visual data stories, using innovative Monte Carlo tree search algorithm.
 
 * Optimization algorithms in MU-MIMO(Multi-User Multiple-Input-Multiple-Output) 2022
-  *Explored the application of L2O (learning to optimize) to solve the NP-hard combinational optimization problems in user scheduling.
+  * Explored the application of L2O (learning to optimize) to solve the NP-hard combinational optimization problems in user scheduling.
 
 
 Publications-Conditional Accept
