@@ -11,54 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Intelligent Science and Technology, Tongji University, Present
+* B.S. in Applied Physics, Tongji University, 2024
 
-Work experience
+Research & Internship
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Training a multi-modal and multi-task model to study the persuasion in data news, IDVX Lab 2025
+  * First co-first author in the IEEE-VIS project that explored persuasive theory in data news, and built a model using attention and gated mechanism to jointly predict the persuasive strategies and effect of the news. 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Using a Mixed-Initiative Approach Interest-Based User Classification on Social Media,  IDVX Lab 2024
+  * Second co-first author in the IEEE-TVCG project that explored using efficient interactive mechanism and GCN & active learning to assist the user classification in social media.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Using LLM to analyze data and create data stories, Huawei Cloud 2024
+  *Participated in the dialog system that effectively obtain data insights and create data stories.
 
-Publications
+* Automatic Visual Data Story Generation, IDVX Lab 2023
+  *Participated in the intelligent system, that automatically generate visual data stories, using innovative Monte Carlo tree search algorithm.
+
+* Optimization algorithms in MU-MIMO(Multi-User Multiple-Input-Multiple-Output) 2022
+  *Explored the application of L2O (learning to optimize) to solve the NP-hard combinational optimization problems in user scheduling.
+
+
+Publications-Conditional Accept
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
