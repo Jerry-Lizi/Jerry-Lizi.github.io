@@ -16,6 +16,6 @@ I enjoy photography, traveling, hiking and various sports (basketball, table ten
 
 Contact Me
 ======
-• Email: 2411927@tongji.edu.cn
-• Address: No. 281, Fuxin Road, Yangpu District, Shanghai
+* Email: 2411927@tongji.edu.cn
+* Address: No. 281, Fuxin Road, Yangpu District, Shanghai
 
