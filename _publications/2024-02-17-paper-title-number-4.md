@@ -2,7 +2,11 @@
 title: "Data Speaks, But Who Gives It a Voice? Understanding Persuasive Strategies in Data-Driven News Articles"
 collection: publications
 category: conferences
-excerpt: '• We developed a taxonomy of persuasive strategies in data-driven news articles, informed by psychological theories and discussions with researchers and practitioners. This taxonomy provides a structured framework for categorizing the communicative techniques used to shape audiences’ interpretations, enabling a deeper understanding of persuasive communication in data storytelling. • We curated and annotated a dataset of 936 data-driven news articles, labeling both persuasive strategies and their persuasive effects. This dataset enables the analysis of persuasion in data journalism, supporting computational modeling of persuasive communication. The dataset can be accessed at https://osf.io/8pehf/. • We proposed a multimodal, multi-task learning model that predicts persuasive strategies and their persuasive effects in data-driven news articles. It outperforms state-of-the-art baselines, demonstrating the essential roles of the proposed cross-attention gated fusion component and loss functions.'
+excerpt: '• We developed a taxonomy of persuasive strategies in data-driven news articles, informed by psychological theories and discussions with researchers and practitioners. This taxonomy provides a structured framework for categorizing the communicative techniques used to shape audiences’ interpretations, enabling a deeper understanding of persuasive communication in data storytelling. 
+
+• We curated and annotated a dataset of 936 data-driven news articles, labeling both persuasive strategies and their persuasive effects. This dataset enables the analysis of persuasion in data journalism, supporting computational modeling of persuasive communication. The dataset can be accessed at https://osf.io/8pehf/. 
+
+• We proposed a multimodal, multi-task learning model that predicts persuasive strategies and their persuasive effects in data-driven news articles. It outperforms state-of-the-art baselines, demonstrating the essential roles of the proposed cross-attention gated fusion component and loss functions.'
 date: 2025-06-06
 venue: 'IEEE VIS'
 ---
